@@ -1,0 +1,4502 @@
+[
+  {
+    "prompt": "Test my knowledge on ancient civilzations.",
+    "split_result": {
+      "text_instruction": "Test my knowledge on the topic shown in the image.",
+      "image_content": "ancient civilzations",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Make up a story about Sharky, a tooth-brushing shark superhero.",
+    "split_result": {
+      "text_instruction": "Tell me a story about the character shown in the image.",
+      "image_content": "Sharky, a tooth-brushing shark superhero",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Give me tips to overcome procrastination.",
+    "split_result": {
+      "text_instruction": "Give me tips to overcome the challenge shown in the image.",
+      "image_content": "overcome procrastination",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Write a message that goes with a kitten gif for a friend on a rough day.",
+    "split_result": {
+      "text_instruction": "Write a message that goes with the image shown below, which depicts a cute animal.",
+      "image_content": "a kitten gif for a friend on a rough day",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a workout plan for resistance training.",
+    "split_result": {
+      "text_instruction": "Create a workout plan based on the exercise routine shown in the image.",
+      "image_content": "resistance training",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest a meal plan for a vegetarian athlete.",
+    "split_result": {
+      "text_instruction": "Suggest a meal plan for the individual shown in the image.",
+      "image_content": "a vegetarian athlete",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the science behind rainbows.",
+    "split_result": {
+      "text_instruction": "Explain the scientific principles behind the phenomenon shown in the image.",
+      "image_content": "rainbows",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a poem about a city that never sleeps.",
+    "split_result": {
+      "text_instruction": "Generate a poem about the place depicted in the image.",
+      "image_content": "a city that never sleeps",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help me understand the stock market basics.",
+    "split_result": {
+      "text_instruction": "Help me understand the knowledge presented in the image.",
+      "image_content": "the stock market basics",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a DIY project for a homemade bird feeder.",
+    "split_result": {
+      "text_instruction": "Create a DIY project based on the idea shown in the image.",
+      "image_content": "a homemade bird feeder",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Outline the major events of World War II.",
+    "split_result": {
+      "text_instruction": "Outline the major events depicted in the image.",
+      "image_content": "World War II",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a weekly meal plan that includes Italian cuisine.",
+    "split_result": {
+      "text_instruction": "Create a weekly meal plan based on the food items shown in the image.",
+      "image_content": "Italian cuisine",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest a reading list for science fiction beginners.",
+    "split_result": {
+      "text_instruction": "Suggest a reading list for the genre shown in the image.",
+      "image_content": "science fiction beginners",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide tips on how to take care of succulent plants.",
+    "split_result": {
+      "text_instruction": "Provide tips on how to take care of the plant shown in the image.",
+      "image_content": "succulent plants",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the rules of chess in simple terms.",
+    "split_result": {
+      "text_instruction": "Explain the rules of the game shown in the image in simple terms.",
+      "image_content": "chess",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a day itinerary for a tourist in Paris.",
+    "split_result": {
+      "text_instruction": "Generate a day itinerary for a tourist based on the location shown in the image.",
+      "image_content": "Paris",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me how to write a haiku about autumn.",
+    "split_result": {
+      "text_instruction": "Teach me how to write a haiku about the theme shown in the image.",
+      "image_content": "autumn",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe the lifecycle of a butterfly.",
+    "split_result": {
+      "text_instruction": "Describe the lifecycle of the creature shown in the image.",
+      "image_content": "a butterfly",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "List the top ten highest mountains in the world.",
+    "split_result": {
+      "text_instruction": "List the top ten highest mountains shown in the image.",
+      "image_content": "the top ten highest mountains in the world",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Advise on how to improve public speaking skills.",
+    "split_result": {
+      "text_instruction": "Advise on how to improve the skill shown in the image.",
+      "image_content": "public speaking skills",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest exercises for improving flexibility.",
+    "split_result": {
+      "text_instruction": "Suggest exercises for improving flexibility based on the content shown in the image.",
+      "image_content": "exercises for improving flexibility",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend five books that have won the Pulitzer Prize.",
+    "split_result": {
+      "text_instruction": "Recommend five books that are shown in the image.",
+      "image_content": "five books that have won the Pulitzer Prize",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help plan a budget for a month-long trip across Europe.",
+    "split_result": {
+      "text_instruction": "Help plan a budget for the travel itinerary shown in the image.",
+      "image_content": "a month-long trip across Europe",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the process of photosynthesis.",
+    "split_result": {
+      "text_instruction": "Explain the biological process shown in the image.",
+      "image_content": "the process of photosynthesis",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a playlist for a 1980s theme party.",
+    "split_result": {
+      "text_instruction": "Create a playlist based on the theme shown in the image.",
+      "image_content": "a 1980s theme party",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide steps to create a mobile app from scratch.",
+    "split_result": {
+      "text_instruction": "Provide steps to create the application shown in the image.",
+      "image_content": "a mobile app from scratch",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest ways to celebrate a dog’s birthday.",
+    "split_result": {
+      "text_instruction": "Suggest ways to celebrate the occasion shown in the image.",
+      "image_content": "a dog’s birthday",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the impact of technology on education.",
+    "split_result": {
+      "text_instruction": "Discuss the impact of the topic shown in the image on education.",
+      "image_content": "technology",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain how to perform basic CPR.",
+    "split_result": {
+      "text_instruction": "Explain how to perform the medical procedure shown in the image.",
+      "image_content": "basic CPR",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "List safe practices for internet dating.",
+    "split_result": {
+      "text_instruction": "List the safe practices shown in the image.",
+      "image_content": "safe practices for internet dating",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a plan for learning a new language in six months.",
+    "split_result": {
+      "text_instruction": "Create a plan for achieving the goal shown in the image.",
+      "image_content": "learning a new language in six months",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Advise on eco-friendly alternatives to everyday products.",
+    "split_result": {
+      "text_instruction": "Advise on eco-friendly alternatives to the items shown in the image.",
+      "image_content": "everyday products",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the phases of the moon.",
+    "split_result": {
+      "text_instruction": "Explain the astronomical phenomenon shown in the image.",
+      "image_content": "the phases of the moon",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a list of DIY home decor ideas.",
+    "split_result": {
+      "text_instruction": "Generate a list of creative ideas shown in the image.",
+      "image_content": "DIY home decor ideas",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me about the different cloud types and what they indicate.",
+    "split_result": {
+      "text_instruction": "Teach me about the different cloud types shown in the image and what they indicate.",
+      "image_content": "the different cloud types and what they indicate",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest strategies for managing time effectively.",
+    "split_result": {
+      "text_instruction": "Suggest strategies for managing time effectively based on the content in the image.",
+      "image_content": "managing time effectively",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the basics of quantum computing.",
+    "split_result": {
+      "text_instruction": "Explain the concepts shown in the image.",
+      "image_content": "the basics of quantum computing",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help compose a heartfelt thank you letter.",
+    "split_result": {
+      "text_instruction": "Help compose a heartfelt thank you letter based on the content shown in the image.",
+      "image_content": "a heartfelt thank you letter",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "List ways to reduce carbon footprint at home.",
+    "split_result": {
+      "text_instruction": "List ways to reduce carbon footprint as shown in the image.",
+      "image_content": "reduce carbon footprint at home",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the differences between crocodiles and alligators.",
+    "split_result": {
+      "text_instruction": "Explain the differences between the animals shown in the image.",
+      "image_content": "crocodiles and alligators",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a list of fun indoor activities for rainy days.",
+    "split_result": {
+      "text_instruction": "Generate a list of fun activities shown in the image.",
+      "image_content": "fun indoor activities for rainy days",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide tips for taking professional-quality photos with a smartphone.",
+    "split_result": {
+      "text_instruction": "Provide tips for taking professional-quality photos using the device shown in the image.",
+      "image_content": "a smartphone",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest classic movies that are a must-watch.",
+    "split_result": {
+      "text_instruction": "Suggest the classic movies that are a must-watch as shown in the image.",
+      "image_content": "classic movies that are a must-watch",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the significance of the Renaissance period in art history.",
+    "split_result": {
+      "text_instruction": "Explain the significance of the historical period depicted in the image.",
+      "image_content": "the Renaissance period in art history",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a guide for stargazing beginners.",
+    "split_result": {
+      "text_instruction": "Create a guide for the activity shown in the image.",
+      "image_content": "stargazing beginners",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the benefits of yoga for mental health.",
+    "split_result": {
+      "text_instruction": "Discuss the benefits of the practice shown in the image for mental health.",
+      "image_content": "yoga",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend ways to volunteer and make a difference in the community.",
+    "split_result": {
+      "text_instruction": "Recommend ways to volunteer and make a difference as shown in the image.",
+      "image_content": "volunteer and make a difference in the community",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest techniques for creative writing.",
+    "split_result": {
+      "text_instruction": "Suggest techniques for creative expression shown in the image.",
+      "image_content": "creative writing",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me about the historical significance of the Silk Road.",
+    "split_result": {
+      "text_instruction": "Teach me about the historical significance of the topic shown in the image.",
+      "image_content": "the historical significance of the Silk Road",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide tips for maintaining a healthy work-life balance.",
+    "split_result": {
+      "text_instruction": "Provide tips for maintaining a healthy work-life balance as shown in the image.",
+      "image_content": "maintaining a healthy work-life balance",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend a list of must-read classic novels.",
+    "split_result": {
+      "text_instruction": "Recommend a list of must-read books shown in the image.",
+      "image_content": "must-read classic novels",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Plan a three-day itinerary for a vacation in Paris.",
+    "split_result": {
+      "text_instruction": "Plan a three-day itinerary for a vacation based on the location shown in the image.",
+      "image_content": "Paris",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe the process of making cheese from scratch.",
+    "split_result": {
+      "text_instruction": "Describe the process of creating the food item shown in the image.",
+      "image_content": "making cheese from scratch",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Give me a brief history of the Olympic Games.",
+    "split_result": {
+      "text_instruction": "Give me a brief history of the topic shown in the image.",
+      "image_content": "the Olympic Games",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me how to play chess, starting with the basics.",
+    "split_result": {
+      "text_instruction": "Teach me how to play the game shown in the image, starting with the basics.",
+      "image_content": "chess",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest eco-friendly alternatives to everyday household items.",
+    "split_result": {
+      "text_instruction": "Suggest eco-friendly alternatives to the items shown in the image.",
+      "image_content": "everyday household items",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a week-long balanced meal plan for a family of four.",
+    "split_result": {
+      "text_instruction": "Create a week-long balanced meal plan based on the dietary information shown in the image.",
+      "image_content": "a family of four, balanced meals for seven days",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Tell me about the major moons of Jupiter.",
+    "split_result": {
+      "text_instruction": "Tell me about the celestial bodies shown in the image.",
+      "image_content": "the major moons of Jupiter",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the principles of quantum mechanics in simple terms.",
+    "split_result": {
+      "text_instruction": "Explain the scientific concepts shown in the image in simple terms.",
+      "image_content": "the principles of quantum mechanics",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help me understand the plot of 'Inception'.",
+    "split_result": {
+      "text_instruction": "Help me understand the story depicted in the image.",
+      "image_content": "the plot of 'Inception'",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Design a relaxing evening routine for stress relief.",
+    "split_result": {
+      "text_instruction": "Design a relaxing evening routine based on the activity shown in the image.",
+      "image_content": "a relaxing evening routine for stress relief",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest activities for improving mental agility in older adults.",
+    "split_result": {
+      "text_instruction": "Suggest activities for improving mental agility based on the content shown in the image.",
+      "image_content": "improving mental agility in older adults",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "List the top ten most influential jazz musicians of all time.",
+    "split_result": {
+      "text_instruction": "List the top ten most influential figures shown in the image.",
+      "image_content": "the top ten most influential jazz musicians of all time",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain how to prepare for a marathon.",
+    "split_result": {
+      "text_instruction": "Explain how to prepare for the event shown in the image.",
+      "image_content": "a marathon",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe how to plant and care for a vegetable garden.",
+    "split_result": {
+      "text_instruction": "Describe how to plant and care for the garden shown in the image.",
+      "image_content": "a vegetable garden",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me about the different types of clouds and what they indicate about the weather.",
+    "split_result": {
+      "text_instruction": "Teach me about the different types of clouds shown in the image and what they indicate about the weather.",
+      "image_content": "the different types of clouds and what they indicate about the weather",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Advise me on how to write a compelling cover letter.",
+    "split_result": {
+      "text_instruction": "Advise me on how to write a compelling letter based on the content shown in the image.",
+      "image_content": "a compelling cover letter",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Give an overview of the French Revolution.",
+    "split_result": {
+      "text_instruction": "Give an overview of the historical event depicted in the image.",
+      "image_content": "the French Revolution",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help me create a budget for a small business.",
+    "split_result": {
+      "text_instruction": "Help me create a budget based on the information shown in the image.",
+      "image_content": "a small business",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the different coffee brewing methods.",
+    "split_result": {
+      "text_instruction": "Explain the different methods shown in the image.",
+      "image_content": "the different coffee brewing methods",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest a list of podcasts about science fiction literature.",
+    "split_result": {
+      "text_instruction": "Suggest a list of podcasts about the topic shown in the image.",
+      "image_content": "science fiction literature",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me the basics of photography.",
+    "split_result": {
+      "text_instruction": "Teach me the basics of the topic shown in the image.",
+      "image_content": "photography",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend fun science experiments for kids.",
+    "split_result": {
+      "text_instruction": "Recommend fun activities that can be performed based on the content shown in the image.",
+      "image_content": "fun science experiments for kids",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe the life cycle of a butterfly.",
+    "split_result": {
+      "text_instruction": "Describe the life cycle of the creature shown in the image.",
+      "image_content": "a butterfly",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the best practices for recycling electronics.",
+    "split_result": {
+      "text_instruction": "Explain the best practices for recycling the item shown in the image.",
+      "image_content": "electronics",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest themes for a baby's first birthday party.",
+    "split_result": {
+      "text_instruction": "Suggest themes for the event shown in the image.",
+      "image_content": "a baby's first birthday party",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a playlist for a road trip that combines rock, pop, and country music.",
+    "split_result": {
+      "text_instruction": "Create a playlist for a road trip based on the music genres shown in the image.",
+      "image_content": "rock, pop, and country music",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Give advice on caring for indoor plants.",
+    "split_result": {
+      "text_instruction": "Give advice on caring for the plants shown in the image.",
+      "image_content": "indoor plants",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the rules of soccer to a beginner.",
+    "split_result": {
+      "text_instruction": "Explain the rules of the sport shown in the image to a beginner.",
+      "image_content": "soccer",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide tips for improving sleep quality.",
+    "split_result": {
+      "text_instruction": "Provide tips for improving sleep quality based on the content in the image.",
+      "image_content": "improving sleep quality",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Tell me about the traditions of Chinese New Year.",
+    "split_result": {
+      "text_instruction": "Tell me about the cultural practices shown in the image.",
+      "image_content": "the traditions of Chinese New Year",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain how to change a car tire.",
+    "split_result": {
+      "text_instruction": "Explain how to perform the task shown in the image.",
+      "image_content": "change a car tire",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest techniques for mindfulness and meditation.",
+    "split_result": {
+      "text_instruction": "Suggest techniques for the practice shown in the image.",
+      "image_content": "mindfulness and meditation",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe the best hiking trails in the Rocky Mountains.",
+    "split_result": {
+      "text_instruction": "Describe the best hiking trails shown in the image.",
+      "image_content": "the Rocky Mountains",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Give a summary of the latest Nobel Prize winners and their achievements.",
+    "split_result": {
+      "text_instruction": "Give a summary of the individuals and their accomplishments shown in the image.",
+      "image_content": "the latest Nobel Prize winners and their achievements",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me basic first aid skills.",
+    "split_result": {
+      "text_instruction": "Teach me the first aid skills shown in the image.",
+      "image_content": "basic first aid skills",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend strategies for managing time effectively.",
+    "split_result": {
+      "text_instruction": "Recommend strategies for managing time as shown in the image.",
+      "image_content": "managing time effectively",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "List important considerations when buying a first home.",
+    "split_result": {
+      "text_instruction": "List important considerations related to the topic shown in the image.",
+      "image_content": "buying a first home",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe how to make homemade ice cream.",
+    "split_result": {
+      "text_instruction": "Describe how to make the food item shown in the image.",
+      "image_content": "homemade ice cream",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the process of photosynthesis.",
+    "split_result": {
+      "text_instruction": "Explain the biological process shown in the image.",
+      "image_content": "the process of photosynthesis",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest simple upcycling projects for old furniture.",
+    "split_result": {
+      "text_instruction": "Suggest simple upcycling projects for the item shown in the image.",
+      "image_content": "old furniture",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Give a crash course on the stock market trends this year.",
+    "split_result": {
+      "text_instruction": "Give a crash course on the financial trends shown in the image.",
+      "image_content": "the stock market trends this year",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend the best apps for learning a new language.",
+    "split_result": {
+      "text_instruction": "Recommend the best apps for learning a new language as shown in the image.",
+      "image_content": "learning a new language",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the significance of the Rosetta Stone.",
+    "split_result": {
+      "text_instruction": "Explain the significance of the artifact shown in the image.",
+      "image_content": "the Rosetta Stone",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a list of essential tools for a beginner woodworker.",
+    "split_result": {
+      "text_instruction": "Provide a list of essential tools for the craft shown in the image.",
+      "image_content": "a beginner woodworker",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe how to bake the perfect chocolate cake.",
+    "split_result": {
+      "text_instruction": "Describe how to bake the perfect cake shown in the image.",
+      "image_content": "the perfect chocolate cake",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of sustainable fashion.",
+    "split_result": {
+      "text_instruction": "Explain the concept presented in the image.",
+      "image_content": "sustainable fashion",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Give tips for photographing wildlife.",
+    "split_result": {
+      "text_instruction": "Give tips for capturing the subject shown in the image.",
+      "image_content": "wildlife",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest the best historical documentaries on Netflix.",
+    "split_result": {
+      "text_instruction": "Suggest the best documentaries related to the topic shown in the image.",
+      "image_content": "historical documentaries on Netflix",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe the basics of investing in cryptocurrency.",
+    "split_result": {
+      "text_instruction": "Describe the basics of investing in the topic shown in the image.",
+      "image_content": "investing in cryptocurrency",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest a week-long itinerary for a trip to Japan.",
+    "split_result": {
+      "text_instruction": "Suggest a week-long itinerary for the destination shown in the image.",
+      "image_content": "a trip to Japan",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe the impact of climate change on polar bears.",
+    "split_result": {
+      "text_instruction": "Describe the impact of climate change on the animal shown in the image.",
+      "image_content": "polar bears",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend some science fiction books with strong female leads.",
+    "split_result": {
+      "text_instruction": "Recommend some science fiction books featuring the character shown in the image.",
+      "image_content": "strong female leads",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help me plan a garden with plants that bloom all year.",
+    "split_result": {
+      "text_instruction": "Help me plan a garden using the plant types shown in the image.",
+      "image_content": "plants that bloom all year",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the rules of cricket in simple terms.",
+    "split_result": {
+      "text_instruction": "Explain the rules of the sport shown in the image in simple terms.",
+      "image_content": "cricket",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a list of indoor activities for rainy days.",
+    "split_result": {
+      "text_instruction": "Generate a list of activities that are shown in the image.",
+      "image_content": "indoor activities for rainy days",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me how to make a traditional Italian lasagna.",
+    "split_result": {
+      "text_instruction": "Teach me how to make the dish shown in the image.",
+      "image_content": "a traditional Italian lasagna",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Guide me through meditating for stress relief.",
+    "split_result": {
+      "text_instruction": "Guide me through the meditation practice shown in the image.",
+      "image_content": "meditating for stress relief",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a playlist for a 1980s themed party.",
+    "split_result": {
+      "text_instruction": "Create a playlist based on the theme shown in the image.",
+      "image_content": "a 1980s themed party",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Offer tips for improving my photography skills.",
+    "split_result": {
+      "text_instruction": "Offer tips for improving the photography skills shown in the image.",
+      "image_content": "my photography skills",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Write a thank-you note for a thoughtful gift.",
+    "split_result": {
+      "text_instruction": "Write a thank-you note for the gift shown in the image.",
+      "image_content": "a thoughtful gift",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain blockchain technology in layman's terms.",
+    "split_result": {
+      "text_instruction": "Explain the concept shown in the image in layman's terms.",
+      "image_content": "blockchain technology",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest ways to celebrate a milestone birthday during a lockdown.",
+    "split_result": {
+      "text_instruction": "Suggest ways to celebrate the event shown in the image.",
+      "image_content": "a milestone birthday during a lockdown",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Compose a short story about a wizard in modern times.",
+    "split_result": {
+      "text_instruction": "Compose a short story about the character depicted in the image.",
+      "image_content": "a wizard in modern times",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend strategies for managing time effectively at work.",
+    "split_result": {
+      "text_instruction": "Recommend strategies for managing time effectively as shown in the image.",
+      "image_content": "managing time effectively at work",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help me understand the basics of quantum computing.",
+    "split_result": {
+      "text_instruction": "Help me understand the knowledge presented in the image.",
+      "image_content": "the basics of quantum computing",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a list of essential tools for beginner woodworkers.",
+    "split_result": {
+      "text_instruction": "Provide a list of essential tools shown in the image.",
+      "image_content": "essential tools for beginner woodworkers",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Give me a beginner's guide to investing in cryptocurrency.",
+    "split_result": {
+      "text_instruction": "Give me a beginner's guide to the topic shown in the image.",
+      "image_content": "investing in cryptocurrency",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a 7-day challenge to boost personal productivity.",
+    "split_result": {
+      "text_instruction": "Create a 7-day challenge based on the plan shown in the image.",
+      "image_content": "a 7-day challenge to boost personal productivity",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest eco-friendly alternatives to everyday plastic items.",
+    "split_result": {
+      "text_instruction": "Suggest eco-friendly alternatives to the items shown in the image.",
+      "image_content": "everyday plastic items",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me five yoga poses for back pain relief.",
+    "split_result": {
+      "text_instruction": "Teach me five yoga poses that are shown in the image for back pain relief.",
+      "image_content": "five yoga poses for back pain relief",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Design a vintage-style poster for a jazz concert.",
+    "split_result": {
+      "text_instruction": "Design a poster in the style shown in the image.",
+      "image_content": "a vintage-style poster for a jazz concert",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the process of photosynthesis to a child.",
+    "split_result": {
+      "text_instruction": "Explain the scientific process shown in the image to a child.",
+      "image_content": "the process of photosynthesis",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend movies that inspire personal growth.",
+    "split_result": {
+      "text_instruction": "Recommend movies that inspire personal growth as shown in the image.",
+      "image_content": "movies that inspire personal growth",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Guide me on how to write a business plan for a cafe.",
+    "split_result": {
+      "text_instruction": "Guide me on how to write a business plan for the concept shown in the image.",
+      "image_content": "a cafe",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest ways to improve sleep quality naturally.",
+    "split_result": {
+      "text_instruction": "Suggest ways to improve the sleep quality shown in the image.",
+      "image_content": "improve sleep quality naturally",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a dialogue between two historical figures about democracy.",
+    "split_result": {
+      "text_instruction": "Create a dialogue between the two individuals shown in the image about the concept presented in the image.",
+      "image_content": "two historical figures about democracy",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Offer tips for first-time dog owners.",
+    "split_result": {
+      "text_instruction": "Offer tips for the pet ownership scenario shown in the image.",
+      "image_content": "first-time dog owners",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the significance of the Rosetta Stone.",
+    "split_result": {
+      "text_instruction": "Explain the significance of the artifact shown in the image.",
+      "image_content": "the Rosetta Stone",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend a list of must-see documentaries on nature.",
+    "split_result": {
+      "text_instruction": "Recommend a list of must-see documentaries based on the content shown in the image.",
+      "image_content": "nature",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me how to solve a Rubik's cube.",
+    "split_result": {
+      "text_instruction": "Teach me how to solve the puzzle shown in the image.",
+      "image_content": "a Rubik's cube",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help me create a budget for a small wedding.",
+    "split_result": {
+      "text_instruction": "Help me create a budget for the event shown in the image.",
+      "image_content": "a small wedding",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest a fitness regimen for improving cardiovascular health.",
+    "split_result": {
+      "text_instruction": "Suggest a fitness regimen that can improve the health condition shown in the image.",
+      "image_content": "improving cardiovascular health",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Write an inspirational message for someone recovering from illness.",
+    "split_result": {
+      "text_instruction": "Write an inspirational message for the person shown in the image.",
+      "image_content": "someone recovering from illness",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the benefits of mindfulness meditation.",
+    "split_result": {
+      "text_instruction": "Explain the benefits of the practice shown in the image.",
+      "image_content": "mindfulness meditation",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend books to help understand personal finance.",
+    "split_result": {
+      "text_instruction": "Recommend books that can help understand the topic shown in the image.",
+      "image_content": "personal finance",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Design a kid-friendly experiment involving plants.",
+    "split_result": {
+      "text_instruction": "Design a kid-friendly experiment based on the content shown in the image.",
+      "image_content": "plants",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest home decor ideas for a minimalist living room.",
+    "split_result": {
+      "text_instruction": "Suggest home decor ideas for the space shown in the image.",
+      "image_content": "a minimalist living room",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help me plan a picnic menu that caters to various dietary needs.",
+    "split_result": {
+      "text_instruction": "Help me plan a picnic menu based on the dietary preferences shown in the image.",
+      "image_content": "various dietary needs",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me the basics of graphic design.",
+    "split_result": {
+      "text_instruction": "Teach me the fundamentals presented in the image.",
+      "image_content": "the basics of graphic design",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a list of historical landmarks to visit in Europe.",
+    "split_result": {
+      "text_instruction": "Create a list of the historical landmarks shown in the image.",
+      "image_content": "historical landmarks to visit in Europe",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest fun educational apps for children aged 6-8.",
+    "split_result": {
+      "text_instruction": "Suggest fun educational apps for the age group shown in the image.",
+      "image_content": "children aged 6-8",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend techniques to improve public speaking skills.",
+    "split_result": {
+      "text_instruction": "Recommend techniques to improve the skill shown in the image.",
+      "image_content": "public speaking skills",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Compose a poem about hope in tough times.",
+    "split_result": {
+      "text_instruction": "Compose a poem about the emotion depicted in the image.",
+      "image_content": "hope in tough times",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the theory of relativity in simple terms.",
+    "split_result": {
+      "text_instruction": "Explain the scientific concept shown in the image in simple terms.",
+      "image_content": "the theory of relativity",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Guide me through planning a sustainable holiday.",
+    "split_result": {
+      "text_instruction": "Guide me through planning the type of trip shown in the image.",
+      "image_content": "a sustainable holiday",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Offer advice on coping with exam stress.",
+    "split_result": {
+      "text_instruction": "Offer advice on coping with the situation shown in the image.",
+      "image_content": "exam stress",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest DIY projects for upcycling old furniture.",
+    "split_result": {
+      "text_instruction": "Suggest DIY projects for upcycling the item shown in the image.",
+      "image_content": "old furniture",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a beginner's guide to bird watching.",
+    "split_result": {
+      "text_instruction": "Create a beginner's guide based on the topic shown in the image.",
+      "image_content": "bird watching",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend a series of workouts for home fitness without equipment.",
+    "split_result": {
+      "text_instruction": "Recommend a series of workouts based on the fitness routine shown in the image.",
+      "image_content": "a series of home fitness workouts without equipment",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest some weekend getaway spots within 200 miles of New York City.",
+    "split_result": {
+      "text_instruction": "Suggest some weekend getaway spots located within the area shown in the image.",
+      "image_content": "within 200 miles of New York City",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Plan a themed birthday party for a 10-year-old who loves dinosaurs.",
+    "split_result": {
+      "text_instruction": "Plan a themed birthday party based on the theme shown in the image.",
+      "image_content": "a 10-year-old who loves dinosaurs",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Offer strategies for managing stress during exam season.",
+    "split_result": {
+      "text_instruction": "Offer strategies for managing stress as shown in the image.",
+      "image_content": "managing stress during exam season",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a list of must-read classic novels.",
+    "split_result": {
+      "text_instruction": "Generate a list of must-read books as shown in the image.",
+      "image_content": "must-read classic novels",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help me understand the rules of cricket.",
+    "split_result": {
+      "text_instruction": "Help me understand the rules presented in the image.",
+      "image_content": "the rules of cricket",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a beginner's guide to meditation.",
+    "split_result": {
+      "text_instruction": "Create a beginner's guide based on the content shown in the image.",
+      "image_content": "meditation",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Design a small herb garden layout for a balcony.",
+    "split_result": {
+      "text_instruction": "Design a small garden layout using the plants shown in the image.",
+      "image_content": "a small herb garden layout for a balcony",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest eco-friendly alternatives to everyday household items.",
+    "split_result": {
+      "text_instruction": "Suggest eco-friendly alternatives to the items shown in the image.",
+      "image_content": "everyday household items",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a step-by-step guide for making sourdough bread.",
+    "split_result": {
+      "text_instruction": "Provide a step-by-step guide for the process shown in the image.",
+      "image_content": "making sourdough bread",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the significance of the Rosetta Stone.",
+    "split_result": {
+      "text_instruction": "Explain the significance of the artifact shown in the image.",
+      "image_content": "the Rosetta Stone",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me how to take professional-quality photos with a smartphone.",
+    "split_result": {
+      "text_instruction": "Teach me how to take professional-quality photos using the device shown in the image.",
+      "image_content": "professional-quality photos with a smartphone",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a playlist for a road trip along the Pacific Coast Highway.",
+    "split_result": {
+      "text_instruction": "Create a playlist for a road trip based on the scene depicted in the image.",
+      "image_content": "a road trip along the Pacific Coast Highway",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest exercises for improving flexibility.",
+    "split_result": {
+      "text_instruction": "Suggest exercises for improving flexibility based on the content in the image.",
+      "image_content": "exercises for improving flexibility",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Plan a romantic evening at home for a couple.",
+    "split_result": {
+      "text_instruction": "Plan a romantic evening at home based on the scene shown in the image.",
+      "image_content": "a romantic evening at home for a couple",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the process of wine making from grape to bottle.",
+    "split_result": {
+      "text_instruction": "Explain the process shown in the image, from grape to bottle.",
+      "image_content": "wine making from grape to bottle",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend books for learning about artificial intelligence.",
+    "split_result": {
+      "text_instruction": "Recommend books for learning about the topic shown in the image.",
+      "image_content": "artificial intelligence",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest gifts for a friend who loves astronomy.",
+    "split_result": {
+      "text_instruction": "Suggest gifts for a friend who loves the topic shown in the image.",
+      "image_content": "astronomy",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Write a brief history of jazz music.",
+    "split_result": {
+      "text_instruction": "Write a brief history of the musical genre shown in the image.",
+      "image_content": "jazz music",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide tips for beginner skateboarders.",
+    "split_result": {
+      "text_instruction": "Provide tips for the activity shown in the image.",
+      "image_content": "beginner skateboarders",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain how to start a podcast from scratch.",
+    "split_result": {
+      "text_instruction": "Explain how to start the project shown in the image.",
+      "image_content": "start a podcast from scratch",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Give advice on adopting and caring for a new puppy.",
+    "split_result": {
+      "text_instruction": "Give advice on adopting and caring for the pet shown in the image.",
+      "image_content": "a new puppy",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest science experiments for kids using household items.",
+    "split_result": {
+      "text_instruction": "Suggest science experiments for kids that can be performed using the items shown in the image.",
+      "image_content": "household items",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a vegan menu for a week.",
+    "split_result": {
+      "text_instruction": "Create a meal plan based on the food items shown in the image.",
+      "image_content": "a vegan menu for a week",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the importance of bees in the ecosystem.",
+    "split_result": {
+      "text_instruction": "Explain the importance of the organism shown in the image within the ecosystem.",
+      "image_content": "bees",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me basic yoga poses for morning practice.",
+    "split_result": {
+      "text_instruction": "Teach me the basic yoga poses shown in the image.",
+      "image_content": "basic yoga poses for morning practice",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a list of endangered species and how to help them.",
+    "split_result": {
+      "text_instruction": "Provide a list of the animals shown in the image and how to help them.",
+      "image_content": "endangered species and how to help them",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest weekend volunteer opportunities in a big city.",
+    "split_result": {
+      "text_instruction": "Suggest weekend volunteer opportunities related to the location shown in the image.",
+      "image_content": "a big city",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help me plan a budget for a month-long trip to Europe.",
+    "split_result": {
+      "text_instruction": "Help me plan a budget for the travel destination shown in the image.",
+      "image_content": "a month-long trip to Europe",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the basics of blockchain technology.",
+    "split_result": {
+      "text_instruction": "Explain the knowledge presented in the image.",
+      "image_content": "the basics of blockchain technology",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a guide to making homemade candles.",
+    "split_result": {
+      "text_instruction": "Provide a guide to creating the item shown in the image.",
+      "image_content": "making homemade candles",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest ways to celebrate a wedding anniversary at home.",
+    "split_result": {
+      "text_instruction": "Suggest ways to celebrate the event shown in the image.",
+      "image_content": "a wedding anniversary celebration at home",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a reading list for someone interested in philosophy.",
+    "split_result": {
+      "text_instruction": "Create a reading list for someone interested in the topic shown in the image.",
+      "image_content": "philosophy",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me about the cultural significance of tea ceremonies.",
+    "split_result": {
+      "text_instruction": "Teach me about the cultural significance of the ritual shown in the image.",
+      "image_content": "tea ceremonies",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Plan a day's itinerary in Paris for a history enthusiast.",
+    "split_result": {
+      "text_instruction": "Plan a day's itinerary in Paris for someone interested in the topic shown in the image.",
+      "image_content": "a history enthusiast",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the mechanics of a solar panel system.",
+    "split_result": {
+      "text_instruction": "Explain the mechanics of the system shown in the image.",
+      "image_content": "a solar panel system",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest ways to improve indoor air quality naturally.",
+    "split_result": {
+      "text_instruction": "Suggest ways to improve the air quality in the environment shown in the image.",
+      "image_content": "indoor air quality",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Design a workout routine for improving cardiovascular health.",
+    "split_result": {
+      "text_instruction": "Design a workout routine based on the fitness plan shown in the image.",
+      "image_content": "improving cardiovascular health",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend strategies for effective team leadership.",
+    "split_result": {
+      "text_instruction": "Recommend strategies for effective leadership based on the content shown in the image.",
+      "image_content": "effective team leadership",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me how to play basic guitar chords.",
+    "split_result": {
+      "text_instruction": "Teach me how to play the musical technique shown in the image.",
+      "image_content": "basic guitar chords",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a character background for a fantasy role-playing game.",
+    "split_result": {
+      "text_instruction": "Create a character background based on the persona depicted in the image.",
+      "image_content": "a fantasy role-playing game character",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide recipes for homemade dog treats.",
+    "split_result": {
+      "text_instruction": "Provide recipes for the treats shown in the image.",
+      "image_content": "homemade dog treats",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest fun activities for a family reunion.",
+    "split_result": {
+      "text_instruction": "Suggest fun activities based on the event concept shown in the image.",
+      "image_content": "a family reunion",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help me understand the basics of quantum computing.",
+    "split_result": {
+      "text_instruction": "Help me understand the knowledge presented in the image.",
+      "image_content": "the basics of quantum computing",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Design a space-themed children's playroom.",
+    "split_result": {
+      "text_instruction": "Design a playroom based on the theme shown in the image.",
+      "image_content": "a space-themed children's playroom",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend non-fiction books about space exploration.",
+    "split_result": {
+      "text_instruction": "Recommend non-fiction books about the topic shown in the image.",
+      "image_content": "space exploration",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the benefits of mindfulness in daily life.",
+    "split_result": {
+      "text_instruction": "Explain the benefits of the practice shown in the image.",
+      "image_content": "mindfulness in daily life",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me how to create an effective resume.",
+    "split_result": {
+      "text_instruction": "Teach me how to create an effective document as shown in the image.",
+      "image_content": "an effective resume",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest ways to decorate a small studio apartment.",
+    "split_result": {
+      "text_instruction": "Suggest ways to decorate the space shown in the image.",
+      "image_content": "a small studio apartment",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Plan a menu for a gluten-free dinner party.",
+    "split_result": {
+      "text_instruction": "Plan a menu for the event depicted in the image.",
+      "image_content": "a gluten-free dinner party",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend podcasts about history and culture.",
+    "split_result": {
+      "text_instruction": "Recommend podcasts that discuss the topics shown in the image.",
+      "image_content": "history and culture",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide tips for learning a new language quickly.",
+    "split_result": {
+      "text_instruction": "Provide tips for learning the subject shown in the image quickly.",
+      "image_content": "a new language",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the significance of the Magna Carta in modern law.",
+    "split_result": {
+      "text_instruction": "Explain the significance of the historical document shown in the image in modern law.",
+      "image_content": "the Magna Carta",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Design a beginner's guide to investing in the stock market.",
+    "split_result": {
+      "text_instruction": "Design a beginner's guide to investing based on the content shown in the image.",
+      "image_content": "the stock market",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest home remedies for common colds.",
+    "split_result": {
+      "text_instruction": "Suggest home remedies for the condition shown in the image.",
+      "image_content": "common colds",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a list of activities for improving mental health.",
+    "split_result": {
+      "text_instruction": "Create a list of activities for improving mental health based on the content shown in the image.",
+      "image_content": "activities for improving mental health",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me how to sew a button.",
+    "split_result": {
+      "text_instruction": "Teach me how to perform the task shown in the image.",
+      "image_content": "sew a button",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend ways to reduce plastic use in daily life.",
+    "split_result": {
+      "text_instruction": "Recommend ways to reduce the usage shown in the image.",
+      "image_content": "plastic use in daily life",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide tips for writing a fantasy novel.",
+    "split_result": {
+      "text_instruction": "Provide tips for creating the story depicted in the image.",
+      "image_content": "a fantasy novel",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the process of photosynthesis in simple terms.",
+    "split_result": {
+      "text_instruction": "Explain the process shown in the image in simple terms.",
+      "image_content": "the process of photosynthesis",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest historical landmarks to visit in Rome.",
+    "split_result": {
+      "text_instruction": "Suggest historical landmarks to visit based on the content shown in the image.",
+      "image_content": "historical landmarks in Rome",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Design a fitness plan for someone with a busy schedule.",
+    "split_result": {
+      "text_instruction": "Design a fitness plan for the person shown in the image.",
+      "image_content": "someone with a busy schedule",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend cozy mystery books.",
+    "split_result": {
+      "text_instruction": "Recommend books that match the genre shown in the image.",
+      "image_content": "cozy mystery books",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide strategies for improving sleep quality.",
+    "split_result": {
+      "text_instruction": "Provide strategies for improving sleep quality based on the content shown in the image.",
+      "image_content": "improving sleep quality",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me about the history of the Olympic Games.",
+    "split_result": {
+      "text_instruction": "Teach me about the historical events depicted in the image.",
+      "image_content": "the history of the Olympic Games",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Plan a weekend itinerary for a nature lover in Colorado.",
+    "split_result": {
+      "text_instruction": "Plan a weekend itinerary for the person in the image who loves nature in the location shown.",
+      "image_content": "a nature lover in Colorado",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest pet-friendly activities in urban areas.",
+    "split_result": {
+      "text_instruction": "Suggest activities that are suitable for pets and can be enjoyed in the urban environment shown in the image.",
+      "image_content": "pet-friendly activities in urban areas",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend budget-friendly home decor ideas.",
+    "split_result": {
+      "text_instruction": "Recommend budget-friendly home decor ideas based on the content shown in the image.",
+      "image_content": "budget-friendly home decor ideas",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a guide to star gazing for beginners.",
+    "split_result": {
+      "text_instruction": "Provide a guide to the activity shown in the image.",
+      "image_content": "star gazing for beginners",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the different types of coffee brewing methods.",
+    "split_result": {
+      "text_instruction": "Explain the different types of coffee brewing methods shown in the image.",
+      "image_content": "the different types of coffee brewing methods",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest nutritious snacks for toddlers.",
+    "split_result": {
+      "text_instruction": "Suggest nutritious snacks based on the content shown in the image.",
+      "image_content": "nutritious snacks for toddlers",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Help me understand the principles of effective communication.",
+    "split_result": {
+      "text_instruction": "Help me understand the knowledge presented in the image.",
+      "image_content": "the principles of effective communication",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Design a study schedule for a law school student.",
+    "split_result": {
+      "text_instruction": "Design a study schedule based on the information shown in the image.",
+      "image_content": "a law school student",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend low-impact exercises for seniors.",
+    "split_result": {
+      "text_instruction": "Recommend low-impact exercises for the group of people shown in the image.",
+      "image_content": "seniors",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me how to make homemade pasta.",
+    "split_result": {
+      "text_instruction": "Teach me how to make the food item shown in the image.",
+      "image_content": "homemade pasta",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a guide to sustainable fashion.",
+    "split_result": {
+      "text_instruction": "Provide a guide to the topic shown in the image.",
+      "image_content": "sustainable fashion",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest ways to celebrate New Year's Eve at home.",
+    "split_result": {
+      "text_instruction": "Suggest ways to celebrate the event shown in the image.",
+      "image_content": "New Year's Eve at home",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the impact of global warming on oceans.",
+    "split_result": {
+      "text_instruction": "Explain the impact of the environmental phenomenon shown in the image on oceans.",
+      "image_content": "global warming",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend classic films that everyone should see.",
+    "split_result": {
+      "text_instruction": "Recommend the films shown in the image that everyone should see.",
+      "image_content": "classic films",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide tips for hosting a virtual meeting.",
+    "split_result": {
+      "text_instruction": "Provide tips for hosting the event shown in the image.",
+      "image_content": "a virtual meeting",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me how to maintain a bicycle.",
+    "split_result": {
+      "text_instruction": "Teach me how to maintain the object shown in the image.",
+      "image_content": "a bicycle",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest strategies for saving money on groceries.",
+    "split_result": {
+      "text_instruction": "Suggest strategies for saving money based on the content shown in the image.",
+      "image_content": "saving money on groceries",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Design a simple electronic project for beginners.",
+    "split_result": {
+      "text_instruction": "Design a simple electronic project based on the concept shown in the image.",
+      "image_content": "a simple electronic project for beginners",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend thrillers that keep you guessing until the end.",
+    "split_result": {
+      "text_instruction": "Recommend movies or books that deliver suspenseful stories as shown in the image.",
+      "image_content": "thrillers that keep you guessing until the end",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a guide to the national parks of Canada.",
+    "split_result": {
+      "text_instruction": "Provide a guide to the locations shown in the image.",
+      "image_content": "the national parks of Canada",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the basics of coding in Python.",
+    "split_result": {
+      "text_instruction": "Explain the fundamentals of programming as shown in the image.",
+      "image_content": "the basics of coding in Python",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest ways to make a small living room look bigger.",
+    "split_result": {
+      "text_instruction": "Suggest ways to make the space shown in the image look bigger.",
+      "image_content": "a small living room",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend easy-to-care-for house plants.",
+    "split_result": {
+      "text_instruction": "Recommend house plants that are easy to care for, as shown in the image.",
+      "image_content": "easy-to-care-for house plants",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide tips for making a long-distance relationship work.",
+    "split_result": {
+      "text_instruction": "Provide tips for making the relationship described in the image work.",
+      "image_content": "a long-distance relationship",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me about the health benefits of meditation.",
+    "split_result": {
+      "text_instruction": "Teach me about the health benefits shown in the image.",
+      "image_content": "the health benefits of meditation",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Plan a picnic for a summer day.",
+    "split_result": {
+      "text_instruction": "Plan a picnic using the details shown in the image.",
+      "image_content": "a summer day picnic",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest ways to incorporate more protein into a vegetarian diet.",
+    "split_result": {
+      "text_instruction": "Suggest ways to incorporate more protein based on the dietary content shown in the image.",
+      "image_content": "more protein into a vegetarian diet",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the rules of soccer to a beginner.",
+    "split_result": {
+      "text_instruction": "Explain the rules of the sport shown in the image to a beginner.",
+      "image_content": "soccer",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend atmospheric horror books.",
+    "split_result": {
+      "text_instruction": "Recommend books that match the mood and theme depicted in the image.",
+      "image_content": "atmospheric horror books",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide ideas for a backyard wedding.",
+    "split_result": {
+      "text_instruction": "Provide ideas for the event shown in the image.",
+      "image_content": "a backyard wedding",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Teach me how to edit photos on a smartphone.",
+    "split_result": {
+      "text_instruction": "Teach me how to perform the photo editing task shown in the image.",
+      "image_content": "edit photos on a smartphone",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest ways to reduce food waste at home.",
+    "split_result": {
+      "text_instruction": "Suggest ways to reduce the issue shown in the image.",
+      "image_content": "food waste at home",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Design a coffee shop-themed kitchen decor.",
+    "split_result": {
+      "text_instruction": "Design a kitchen decor based on the theme shown in the image.",
+      "image_content": "a coffee shop-themed kitchen decor",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Recommend jazz albums for someone new to the genre.",
+    "split_result": {
+      "text_instruction": "Recommend music albums that match the style shown in the image.",
+      "image_content": "jazz albums for someone new to the genre",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide tips for beginner gardeners growing vegetables.",
+    "split_result": {
+      "text_instruction": "Provide tips for beginner gardeners based on the content shown in the image.",
+      "image_content": "growing vegetables",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain how to set up a basic home network.",
+    "split_result": {
+      "text_instruction": "Explain how to set up the network configuration shown in the image.",
+      "image_content": "a basic home network setup",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential benefits and drawbacks of artificial intelligence in healthcare.",
+    "split_result": {
+      "text_instruction": "Discuss the potential benefits and drawbacks of the topic shown in the image.",
+      "image_content": "artificial intelligence in healthcare",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a recipe for a healthy, vegan breakfast smoothie.",
+    "split_result": {
+      "text_instruction": "Create a recipe for a healthy, vegan breakfast smoothie based on the content shown in the image.",
+      "image_content": "a healthy, vegan breakfast smoothie",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the theory of relativity as if I were a 10-year-old.",
+    "split_result": {
+      "text_instruction": "Explain the concept shown in the image as if I were a 10-year-old.",
+      "image_content": "the theory of relativity",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-read classic novels and provide a brief synopsis of each.",
+    "split_result": {
+      "text_instruction": "Suggest five must-read books and provide a brief synopsis of each based on the content in the image.",
+      "image_content": "five must-read classic novels",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I effectively manage stress and anxiety in my daily life?",
+    "split_result": {
+      "text_instruction": "How can I effectively manage the emotional state shown in the image?",
+      "image_content": "stress and anxiety in daily life",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe the process of photosynthesis in plants.",
+    "split_result": {
+      "text_instruction": "Describe the biological process shown in the image.",
+      "image_content": "the process of photosynthesis in plants",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short horror story about a haunted abandoned amusement park.",
+    "split_result": {
+      "text_instruction": "Generate a short horror story based on the scene depicted in the image.",
+      "image_content": "a haunted abandoned amusement park",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective techniques for active listening in conversations?",
+    "split_result": {
+      "text_instruction": "What are some effective techniques for active listening shown in the image?",
+      "image_content": "effective techniques for active listening in conversations",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a beginner's guide to understanding the stock market.",
+    "split_result": {
+      "text_instruction": "Provide a beginner's guide to understanding the topic shown in the image.",
+      "image_content": "the stock market",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a list of 10 essential items for a wilderness survival kit.",
+    "split_result": {
+      "text_instruction": "Create a list of 10 essential items for the scenario depicted in the image.",
+      "image_content": "a wilderness survival kit",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of neuroplasticity and how it relates to learning.",
+    "split_result": {
+      "text_instruction": "Explain the concept shown in the image and how it relates to learning.",
+      "image_content": "neuroplasticity",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five unique date ideas for couples on a budget.",
+    "split_result": {
+      "text_instruction": "Suggest five unique date ideas for couples based on the content shown in the image.",
+      "image_content": "five unique date ideas for couples on a budget",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my public speaking skills?",
+    "split_result": {
+      "text_instruction": "How can I improve the communication skills shown in the image?",
+      "image_content": "my public speaking skills",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the importance of biodiversity in maintaining healthy ecosystems.",
+    "split_result": {
+      "text_instruction": "Discuss the importance of the concept shown in the image for maintaining healthy ecosystems.",
+      "image_content": "biodiversity",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a limerick about a mischievous leprechaun.",
+    "split_result": {
+      "text_instruction": "Generate a limerick about the character shown in the image.",
+      "image_content": "a mischievous leprechaun",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to break bad habits and form new, positive ones?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to break the habit shown in the image and form a new, positive one?",
+      "image_content": "break bad habits and form new, positive ones",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the difference between a virus and a bacteria.",
+    "split_result": {
+      "text_instruction": "Explain the difference between the two entities shown in the image.",
+      "image_content": "a virus and a bacteria",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, healthy meal ideas for a busy college student.",
+    "split_result": {
+      "text_instruction": "Suggest three simple, healthy meal ideas based on the content shown in the image.",
+      "image_content": "three simple, healthy meal ideas for a busy college student",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more sustainable and eco-friendly lifestyle?",
+    "split_result": {
+      "text_instruction": "How can I create a more sustainable and eco-friendly lifestyle based on the content shown in the image?",
+      "image_content": "a more sustainable and eco-friendly lifestyle",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief overview of the major world religions and their core beliefs.",
+    "split_result": {
+      "text_instruction": "Provide a brief overview of the religious traditions and their core beliefs shown in the image.",
+      "image_content": "the major world religions and their core beliefs",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a time-traveling detective solving a mystery.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character and scenario depicted in the image.",
+      "image_content": "a time-traveling detective solving a mystery",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for improving sleep quality and establishing a healthy sleep routine?",
+    "split_result": {
+      "text_instruction": "What are some tips for improving sleep quality and establishing a healthy sleep routine as shown in the image?",
+      "image_content": "improving sleep quality and establishing a healthy sleep routine",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of inflation and how it affects the economy.",
+    "split_result": {
+      "text_instruction": "Explain the economic concept shown in the image and how it impacts the economy.",
+      "image_content": "the concept of inflation and how it affects the economy",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-visit national parks in the United States and what makes them unique.",
+    "split_result": {
+      "text_instruction": "Suggest five must-visit locations shown in the image and explain what makes each one unique.",
+      "image_content": "five must-visit national parks in the United States",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I effectively manage my time and increase productivity?",
+    "split_result": {
+      "text_instruction": "How can I effectively manage my time and increase productivity as shown in the image?",
+      "image_content": "time management and productivity tips",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential applications and implications of blockchain technology.",
+    "split_result": {
+      "text_instruction": "Discuss the potential applications and implications of the technology shown in the image.",
+      "image_content": "blockchain technology",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a haiku about the changing of the seasons.",
+    "split_result": {
+      "text_instruction": "Create a haiku based on the theme shown in the image.",
+      "image_content": "the changing of the seasons",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some strategies for building and maintaining strong relationships?",
+    "split_result": {
+      "text_instruction": "What are some strategies for building and maintaining strong relationships as shown in the image?",
+      "image_content": "building and maintaining strong relationships",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a beginner's guide to understanding basic coding concepts.",
+    "split_result": {
+      "text_instruction": "Provide a beginner's guide to understanding the concepts shown in the image.",
+      "image_content": "basic coding concepts",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple DIY home improvement projects for renters.",
+    "split_result": {
+      "text_instruction": "Suggest three simple DIY home improvement projects based on the ideas shown in the image.",
+      "image_content": "three simple DIY home improvement projects for renters",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I develop a growth mindset and embrace challenges?",
+    "split_result": {
+      "text_instruction": "How can I develop the mindset shown in the image and embrace the challenges depicted?",
+      "image_content": "a growth mindset and embracing challenges",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the water cycle and its importance in the Earth's ecosystem.",
+    "split_result": {
+      "text_instruction": "Explain the natural process and its significance in the ecosystem shown in the image.",
+      "image_content": "the water cycle and its importance in the Earth's ecosystem",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a magical, talking houseplant.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the magical being depicted in the image.",
+      "image_content": "a magical, talking houseplant",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to build self-confidence and self-esteem?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to build the qualities shown in the image?",
+      "image_content": "self-confidence and self-esteem",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief history of the American Civil Rights Movement.",
+    "split_result": {
+      "text_instruction": "Provide a brief history of the event or movement shown in the image.",
+      "image_content": "the American Civil Rights Movement",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-try international cuisines and a signature dish from each.",
+    "split_result": {
+      "text_instruction": "Suggest five must-try cuisines and a signature dish from each, as shown in the image.",
+      "image_content": "five international cuisines and their signature dishes",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a budget and stick to it?",
+    "split_result": {
+      "text_instruction": "How can I create a financial plan and follow it, as shown in the image?",
+      "image_content": "a budget and sticking to it",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential benefits and risks of genetically modified organisms (GMOs).",
+    "split_result": {
+      "text_instruction": "Discuss the potential benefits and risks of the topic shown in the image.",
+      "image_content": "genetically modified organisms (GMOs)",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a limerick about a clumsy, lovable robot.",
+    "split_result": {
+      "text_instruction": "Create a limerick about the character depicted in the image.",
+      "image_content": "a clumsy, lovable robot",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for effective goal-setting and achieving personal and professional success?",
+    "split_result": {
+      "text_instruction": "What are some tips for effective goal-setting and achieving the outcomes shown in the image?",
+      "image_content": "effective goal-setting and achieving personal and professional success",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the difference between renewable and non-renewable energy sources.",
+    "split_result": {
+      "text_instruction": "Explain the difference between the energy sources shown in the image.",
+      "image_content": "renewable and non-renewable energy sources",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, non-toxic cleaning solutions for household use.",
+    "split_result": {
+      "text_instruction": "Suggest three simple, non-toxic cleaning solutions based on the content shown in the image.",
+      "image_content": "three simple, non-toxic cleaning solutions for household use",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my active listening skills in personal and professional settings?",
+    "split_result": {
+      "text_instruction": "How can I improve the communication skills shown in the image in personal and professional settings?",
+      "image_content": "active listening skills",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief overview of the major literary movements throughout history.",
+    "split_result": {
+      "text_instruction": "Provide a brief overview of the literary movements depicted in the image.",
+      "image_content": "the major literary movements throughout history",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a child discovering a magical, hidden world.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character and setting depicted in the image.",
+      "image_content": "a child discovering a magical, hidden world",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some strategies for overcoming writer's block and boosting creativity?",
+    "split_result": {
+      "text_instruction": "What are some strategies for overcoming the challenge shown in the image and boosting creativity?",
+      "image_content": "writer's block and boosting creativity",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the importance of mental health awareness and self-care practices.",
+    "split_result": {
+      "text_instruction": "Discuss the importance of the topic shown in the image.",
+      "image_content": "mental health awareness and self-care practices",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a haiku about the beauty of a starry night sky.",
+    "split_result": {
+      "text_instruction": "Create a haiku about the scene depicted in the image.",
+      "image_content": "the beauty of a starry night sky",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-read books on personal development and self-improvement.",
+    "split_result": {
+      "text_instruction": "Suggest five must-read books on the topic shown in the image.",
+      "image_content": "personal development and self-improvement",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more ergonomic workspace to prevent physical strain and discomfort?",
+    "split_result": {
+      "text_instruction": "How can I create a more ergonomic setup based on the environment shown in the image?",
+      "image_content": "a more ergonomic workspace to prevent physical strain and discomfort",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of the scientific method and its importance in research.",
+    "split_result": {
+      "text_instruction": "Explain the concept and significance of the process shown in the image.",
+      "image_content": "the scientific method and its importance in research",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, plant-based meal ideas for a health-conscious family.",
+    "split_result": {
+      "text_instruction": "Suggest three simple meal ideas based on the ingredients shown in the image.",
+      "image_content": "three simple, plant-based meal ideas for a health-conscious family",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to reduce procrastination and increase motivation?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to reduce the behavior shown in the image and increase the state depicted in the image?",
+      "image_content": "procrastination and lack of motivation",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief history of the space race and its impact on technology and science.",
+    "split_result": {
+      "text_instruction": "Provide a brief history of the event depicted in the image and its impact on technology and science.",
+      "image_content": "the space race",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a talking dog who becomes a celebrity chef.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character shown in the image.",
+      "image_content": "a talking dog who becomes a celebrity chef",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I develop better interpersonal communication skills?",
+    "split_result": {
+      "text_instruction": "How can I develop better interpersonal communication skills as shown in the image?",
+      "image_content": "interpersonal communication skills",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential benefits and challenges of renewable energy adoption.",
+    "split_result": {
+      "text_instruction": "Discuss the potential benefits and challenges of the topic shown in the image.",
+      "image_content": "renewable energy adoption",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a limerick about a time-traveling, adventurous grandmother.",
+    "split_result": {
+      "text_instruction": "Create a limerick about the character depicted in the image.",
+      "image_content": "a time-traveling, adventurous grandmother",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for effective conflict resolution in personal and professional relationships?",
+    "split_result": {
+      "text_instruction": "What are some tips for effective conflict resolution shown in the image?",
+      "image_content": "effective conflict resolution in personal and professional relationships",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of natural selection and its role in the evolution of species.",
+    "split_result": {
+      "text_instruction": "Explain the concept and its role in the evolution of species as shown in the image.",
+      "image_content": "natural selection and its role in the evolution of species",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-visit historical sites around the world and their significance.",
+    "split_result": {
+      "text_instruction": "Suggest five must-visit historical sites shown in the image and explain their significance.",
+      "image_content": "five must-visit historical sites around the world and their significance",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more organized and clutter-free living space?",
+    "split_result": {
+      "text_instruction": "How can I create a more organized and clutter-free environment shown in the image?",
+      "image_content": "a more organized and clutter-free living space",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief overview of the major philosophical schools of thought.",
+    "split_result": {
+      "text_instruction": "Provide a brief overview of the philosophical ideas presented in the image.",
+      "image_content": "the major philosophical schools of thought",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a child discovering their superhero powers.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character depicted in the image.",
+      "image_content": "a child discovering their superhero powers",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some strategies for effective public speaking and presenting ideas?",
+    "split_result": {
+      "text_instruction": "What are some strategies for effective communication and presenting the content shown in the image?",
+      "image_content": "effective public speaking and presenting ideas",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the importance of diversity and inclusion in the workplace and society.",
+    "split_result": {
+      "text_instruction": "Discuss the importance of the concept shown in the image in the workplace and society.",
+      "image_content": "diversity and inclusion",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a haiku about the fleeting nature of cherry blossoms.",
+    "split_result": {
+      "text_instruction": "Create a haiku about the theme presented in the image.",
+      "image_content": "the fleeting nature of cherry blossoms",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-try hobbies for stress relief and personal growth.",
+    "split_result": {
+      "text_instruction": "Suggest five must-try hobbies for stress relief and personal growth based on the content in the image.",
+      "image_content": "five must-try hobbies for stress relief and personal growth",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my critical thinking and problem-solving skills?",
+    "split_result": {
+      "text_instruction": "How can I improve the cognitive abilities shown in the image?",
+      "image_content": "critical thinking and problem-solving skills",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of the greenhouse effect and its impact on global climate change.",
+    "split_result": {
+      "text_instruction": "Explain the concept and its impact shown in the image.",
+      "image_content": "the greenhouse effect and its impact on global climate change",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, budget-friendly home decor ideas to refresh a living space.",
+    "split_result": {
+      "text_instruction": "Suggest three simple, budget-friendly ideas shown in the image to refresh a living space.",
+      "image_content": "home decor ideas to refresh a living space",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to build and maintain a strong support network?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to build and maintain a strong support network as shown in the image?",
+      "image_content": "build and maintain a strong support network",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief history of the women's suffrage movement and its impact on gender equality.",
+    "split_result": {
+      "text_instruction": "Provide a brief history of the topic shown in the image and its impact on gender equality.",
+      "image_content": "the women's suffrage movement",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a magical, talking tree that grants wishes.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the magical being depicted in the image.",
+      "image_content": "a magical, talking tree that grants wishes",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I develop better time management skills and prioritize tasks effectively?",
+    "split_result": {
+      "text_instruction": "How can I develop better time management skills and prioritize the tasks shown in the image?",
+      "image_content": "better time management skills and prioritize tasks effectively",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential benefits and ethical concerns surrounding artificial intelligence.",
+    "split_result": {
+      "text_instruction": "Discuss the potential benefits and ethical concerns surrounding the topic shown in the image.",
+      "image_content": "artificial intelligence",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a limerick about a mischievous, shape-shifting alien.",
+    "split_result": {
+      "text_instruction": "Create a limerick about the being depicted in the image.",
+      "image_content": "a mischievous, shape-shifting alien",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for effective negotiation and persuasion in personal and professional settings?",
+    "split_result": {
+      "text_instruction": "What are some tips for effective negotiation and persuasion shown in the image?",
+      "image_content": "effective negotiation and persuasion in personal and professional settings",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of plate tectonics and its role in shaping the Earth's surface.",
+    "split_result": {
+      "text_instruction": "Explain the scientific concept shown in the image and its role in shaping the Earth's surface.",
+      "image_content": "plate tectonics",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-read books on leadership and management.",
+    "split_result": {
+      "text_instruction": "Suggest five must-read books on the topic shown in the image.",
+      "image_content": "leadership and management",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more sustainable and eco-friendly wardrobe?",
+    "split_result": {
+      "text_instruction": "How can I create a more sustainable and eco-friendly wardrobe based on the content shown in the image?",
+      "image_content": "a more sustainable and eco-friendly wardrobe",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief overview of the major world mythology and folklore.",
+    "split_result": {
+      "text_instruction": "Provide a brief overview of the cultural stories and legends depicted in the image.",
+      "image_content": "the major world mythology and folklore",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a child discovering a hidden, underground city.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character and setting depicted in the image.",
+      "image_content": "a child discovering a hidden, underground city",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some strategies for effective stress management and self-care?",
+    "split_result": {
+      "text_instruction": "What are some strategies for effective stress management and self-care as shown in the image?",
+      "image_content": "effective stress management and self-care",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the importance of financial literacy and personal money management.",
+    "split_result": {
+      "text_instruction": "Discuss the importance of the topic shown in the image.",
+      "image_content": "financial literacy and personal money management",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a haiku about the serenity of a quiet, misty morning.",
+    "split_result": {
+      "text_instruction": "Create a haiku about the atmosphere depicted in the image.",
+      "image_content": "the serenity of a quiet, misty morning",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-try mindfulness and meditation techniques for beginners.",
+    "split_result": {
+      "text_instruction": "Suggest five must-try mindfulness and meditation techniques based on the content shown in the image.",
+      "image_content": "mindfulness and meditation techniques for beginners",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my active reading skills and retain information more effectively?",
+    "split_result": {
+      "text_instruction": "How can I improve the reading skills and information retention shown in the image?",
+      "image_content": "active reading skills and retaining information effectively",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of the food chain and its importance in maintaining ecological balance.",
+    "split_result": {
+      "text_instruction": "Explain the concept and significance of the system shown in the image.",
+      "image_content": "the food chain and its importance in maintaining ecological balance",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, healthy snack ideas for office workers.",
+    "split_result": {
+      "text_instruction": "Suggest three simple, healthy snack ideas based on the content shown in the image.",
+      "image_content": "three simple, healthy snack ideas for office workers",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to build and maintain self-discipline?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to build and maintain the quality shown in the image?",
+      "image_content": "self-discipline",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief history of the Industrial Revolution and its impact on modern society.",
+    "split_result": {
+      "text_instruction": "Provide a brief history of the topic shown in the image and its impact on modern society.",
+      "image_content": "the Industrial Revolution",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a child discovering a magical, talking musical instrument.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character and object shown in the image.",
+      "image_content": "a child discovering a magical, talking musical instrument",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I develop better emotional intelligence and empathy?",
+    "split_result": {
+      "text_instruction": "How can I develop better emotional intelligence and empathy based on the content shown in the image?",
+      "image_content": "emotional intelligence and empathy",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential benefits and challenges of globalization in the modern world.",
+    "split_result": {
+      "text_instruction": "Discuss the potential benefits and challenges of the topic shown in the image.",
+      "image_content": "globalization in the modern world",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a limerick about a clumsy, lovable knight on a quest.",
+    "split_result": {
+      "text_instruction": "Create a limerick about the character shown in the image.",
+      "image_content": "a clumsy, lovable knight on a quest",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for effective networking and building professional relationships?",
+    "split_result": {
+      "text_instruction": "What are some tips for effective networking and building professional relationships as shown in the image?",
+      "image_content": "effective networking and building professional relationships",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of the water cycle and its importance in the Earth's ecosystem.",
+    "split_result": {
+      "text_instruction": "Explain the concept and significance of the process shown in the image.",
+      "image_content": "the water cycle and its importance in the Earth's ecosystem",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-visit lesser-known travel destinations around the world.",
+    "split_result": {
+      "text_instruction": "Suggest five must-visit travel destinations shown in the image.",
+      "image_content": "lesser-known travel destinations around the world",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more positive and growth-oriented mindset for personal and professional success?",
+    "split_result": {
+      "text_instruction": "How can I develop a more positive and growth-oriented mindset based on the concept shown in the image?",
+      "image_content": "a more positive and growth-oriented mindset for personal and professional success",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential impact of virtual and augmented reality on education and training.",
+    "split_result": {
+      "text_instruction": "Discuss the potential impact of the technology shown in the image on education and training.",
+      "image_content": "virtual and augmented reality",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a recipe for a delicious, authentic Italian pasta dish.",
+    "split_result": {
+      "text_instruction": "Create a recipe for the dish shown in the image.",
+      "image_content": "a delicious, authentic Italian pasta dish",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of dark matter and its role in the universe.",
+    "split_result": {
+      "text_instruction": "Explain the concept and role in the universe shown in the image.",
+      "image_content": "dark matter and its role in the universe",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-read science fiction novels and provide a brief synopsis of each.",
+    "split_result": {
+      "text_instruction": "Suggest five must-read novels and provide a brief synopsis of each, based on the content shown in the image.",
+      "image_content": "five must-read science fiction novels",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my emotional resilience and cope with adversity?",
+    "split_result": {
+      "text_instruction": "How can I improve the emotional strength shown in the image and cope with the challenges depicted?",
+      "image_content": "emotional resilience and coping with adversity",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe the process of cellular respiration in living organisms.",
+    "split_result": {
+      "text_instruction": "Describe the biological process shown in the image.",
+      "image_content": "the process of cellular respiration in living organisms",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short mystery story about a detective solving a case in a small, quirky town.",
+    "split_result": {
+      "text_instruction": "Generate a short mystery story about the character and setting shown in the image.",
+      "image_content": "a detective solving a case in a small, quirky town",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective techniques for brainstorming and generating creative ideas?",
+    "split_result": {
+      "text_instruction": "What are some effective techniques for brainstorming and generating creative ideas shown in the image?",
+      "image_content": "brainstorming and generating creative ideas",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a beginner's guide to understanding cryptocurrency and blockchain technology.",
+    "split_result": {
+      "text_instruction": "Provide a beginner's guide to understanding the concept shown in the image.",
+      "image_content": "cryptocurrency and blockchain technology",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a list of 10 essential items for a home emergency preparedness kit.",
+    "split_result": {
+      "text_instruction": "Create a list of 10 essential items for the emergency preparedness kit shown in the image.",
+      "image_content": "a home emergency preparedness kit",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of biomimicry and its applications in design and engineering.",
+    "split_result": {
+      "text_instruction": "Explain the concept and its applications shown in the image.",
+      "image_content": "biomimicry and its applications in design and engineering",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five unique gift ideas for a friend who loves to travel.",
+    "split_result": {
+      "text_instruction": "Suggest five unique gift ideas for the person whose interests are shown in the image.",
+      "image_content": "a friend who loves to travel",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my negotiation skills in personal and professional settings?",
+    "split_result": {
+      "text_instruction": "How can I improve the negotiation skills shown in the image?",
+      "image_content": "negotiation skills in personal and professional settings",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the importance of coral reefs in marine ecosystems and the threats they face.",
+    "split_result": {
+      "text_instruction": "Discuss the importance of the ecosystem shown in the image and the challenges it faces.",
+      "image_content": "coral reefs in marine ecosystems and the threats they face",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a haiku about the beauty of a mountain sunrise.",
+    "split_result": {
+      "text_instruction": "Generate a haiku about the scene depicted in the image.",
+      "image_content": "the beauty of a mountain sunrise",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to build and maintain self-confidence?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to build and maintain the quality shown in the image?",
+      "image_content": "self-confidence",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the difference between a compound and a mixture in chemistry.",
+    "split_result": {
+      "text_instruction": "Explain the difference between the two concepts shown in the image.",
+      "image_content": "a compound and a mixture in chemistry",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, vegetarian meal ideas for a health-conscious couple.",
+    "split_result": {
+      "text_instruction": "Suggest three simple meal ideas based on the content shown in the image.",
+      "image_content": "three simple, vegetarian meal ideas for a health-conscious couple",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I reduce my carbon footprint and live a more environmentally friendly lifestyle?",
+    "split_result": {
+      "text_instruction": "How can I reduce the environmental impact shown in the image and live a more sustainable lifestyle?",
+      "image_content": "reducing carbon footprint and living an environmentally friendly lifestyle",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief overview of the major philosophical theories on the nature of reality.",
+    "split_result": {
+      "text_instruction": "Provide a brief overview of the major philosophical theories presented in the image.",
+      "image_content": "the major philosophical theories on the nature of reality",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a magical, enchanted forest with talking animals.",
+    "split_result": {
+      "text_instruction": "Generate a short story based on the scene depicted in the image.",
+      "image_content": "a magical, enchanted forest with talking animals",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for improving memory and retaining information more effectively?",
+    "split_result": {
+      "text_instruction": "What are some tips for improving memory and retaining information more effectively, as shown in the image?",
+      "image_content": "improving memory and retaining information more effectively",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of supply and demand and its impact on market prices.",
+    "split_result": {
+      "text_instruction": "Explain the economic concept shown in the image and its effect on pricing.",
+      "image_content": "the concept of supply and demand and its impact on market prices",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-visit art museums around the world and their most famous works.",
+    "split_result": {
+      "text_instruction": "Suggest five must-visit art museums shown in the image and their most famous works.",
+      "image_content": "five must-visit art museums around the world and their most famous works",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I effectively communicate my thoughts and ideas in writing?",
+    "split_result": {
+      "text_instruction": "How can I effectively communicate the content shown in the image through writing?",
+      "image_content": "my thoughts and ideas",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential applications and implications of 3D printing technology.",
+    "split_result": {
+      "text_instruction": "Discuss the potential applications and implications of the technology shown in the image.",
+      "image_content": "3D printing technology",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a limerick about a mischievous, time-traveling cat.",
+    "split_result": {
+      "text_instruction": "Create a limerick about the character depicted in the image.",
+      "image_content": "a mischievous, time-traveling cat",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some strategies for building and maintaining a strong personal brand?",
+    "split_result": {
+      "text_instruction": "What are some strategies for building and maintaining the personal brand shown in the image?",
+      "image_content": "a strong personal brand",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a beginner's guide to understanding basic principles of psychology.",
+    "split_result": {
+      "text_instruction": "Provide a beginner's guide to understanding the concepts shown in the image.",
+      "image_content": "basic principles of psychology",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple DIY crafts using recycled materials.",
+    "split_result": {
+      "text_instruction": "Suggest three simple DIY crafts that can be made using the materials shown in the image.",
+      "image_content": "recycled materials",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I develop a more positive and optimistic outlook on life?",
+    "split_result": {
+      "text_instruction": "How can I develop a more positive and optimistic outlook on life, as shown in the image?",
+      "image_content": "a more positive and optimistic outlook on life",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the process of nuclear fusion and its potential as a future energy source.",
+    "split_result": {
+      "text_instruction": "Explain the scientific process and its potential applications shown in the image.",
+      "image_content": "nuclear fusion and its potential as a future energy source",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a child discovering a hidden, magical portal in their bedroom.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character and event depicted in the image.",
+      "image_content": "a child discovering a hidden, magical portal in their bedroom",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to overcome stage fright and deliver confident presentations?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to overcome the issue shown in the image and deliver confident presentations?",
+      "image_content": "stage fright",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief history of the Cold War and its impact on global politics.",
+    "split_result": {
+      "text_instruction": "Provide a brief history of the event depicted in the image and its impact on global politics.",
+      "image_content": "the Cold War",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-try street food dishes from around the world.",
+    "split_result": {
+      "text_instruction": "Suggest five must-try food items shown in the image.",
+      "image_content": "five must-try street food dishes from around the world",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more ergonomic and comfortable home office setup?",
+    "split_result": {
+      "text_instruction": "How can I create a more ergonomic and comfortable setup based on the image provided?",
+      "image_content": "a more ergonomic and comfortable home office setup",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential benefits and risks of gene editing technology.",
+    "split_result": {
+      "text_instruction": "Discuss the potential benefits and risks of the topic shown in the image.",
+      "image_content": "gene editing technology",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a haiku about the tranquility of a babbling brook in a forest.",
+    "split_result": {
+      "text_instruction": "Create a haiku about the atmosphere depicted in the image.",
+      "image_content": "the tranquility of a babbling brook in a forest",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for effective cross-cultural communication and understanding?",
+    "split_result": {
+      "text_instruction": "What are some tips for effective communication and understanding shown in the image?",
+      "image_content": "effective cross-cultural communication and understanding",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the difference between weather and climate.",
+    "split_result": {
+      "text_instruction": "Explain the difference between the concepts shown in the image.",
+      "image_content": "weather and climate",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, eco-friendly DIY cleaning products for household use.",
+    "split_result": {
+      "text_instruction": "Suggest three simple, eco-friendly DIY cleaning products based on the content shown in the image.",
+      "image_content": "three simple, eco-friendly DIY cleaning products for household use",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my critical thinking skills and make better decisions?",
+    "split_result": {
+      "text_instruction": "How can I improve the cognitive abilities shown in the image and make better choices?",
+      "image_content": "critical thinking skills and making better decisions",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief overview of the major world music genres and their characteristics.",
+    "split_result": {
+      "text_instruction": "Provide a brief overview of the major music genres and their characteristics shown in the image.",
+      "image_content": "the major world music genres and their characteristics",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a child discovering a magical, talking tree in their backyard.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character in the image.",
+      "image_content": "a child discovering a magical, talking tree in their backyard",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some strategies for overcoming impostor syndrome and embracing success?",
+    "split_result": {
+      "text_instruction": "What are some strategies for overcoming the challenge shown in the image and embracing success?",
+      "image_content": "impostor syndrome",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the importance of work-life balance and its impact on overall well-being.",
+    "split_result": {
+      "text_instruction": "Discuss the importance of the concept shown in the image and its impact on overall well-being.",
+      "image_content": "work-life balance",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a limerick about a clumsy, lovable dragon learning to fly.",
+    "split_result": {
+      "text_instruction": "Create a limerick about the creature depicted in the image.",
+      "image_content": "a clumsy, lovable dragon learning to fly",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-read books on leadership and personal development.",
+    "split_result": {
+      "text_instruction": "Suggest five must-read books based on the content shown in the image.",
+      "image_content": "leadership and personal development",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more organized and efficient filing system for important documents?",
+    "split_result": {
+      "text_instruction": "How can I create a more organized and efficient filing system based on the content shown in the image?",
+      "image_content": "important documents",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of the butterfly effect and its relevance to chaos theory.",
+    "split_result": {
+      "text_instruction": "Explain the concept shown in the image and its relevance to chaos theory.",
+      "image_content": "the butterfly effect",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, gluten-free baking recipes for a friend with celiac disease.",
+    "split_result": {
+      "text_instruction": "Suggest three simple baking recipes that are suitable for the dietary needs shown in the image.",
+      "image_content": "three simple, gluten-free baking recipes for a friend with celiac disease",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to build and maintain strong family relationships?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to build and maintain strong relationships as shown in the image?",
+      "image_content": "build and maintain strong family relationships",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief history of the Silk Road and its impact on global trade and cultural exchange.",
+    "split_result": {
+      "text_instruction": "Provide a brief history of the topic shown in the image and its impact on global trade and cultural exchange.",
+      "image_content": "the Silk Road",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a magical, talking painting that comes to life.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the magical entity depicted in the image.",
+      "image_content": "a magical, talking painting that comes to life",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I develop better listening skills and show empathy in conversations?",
+    "split_result": {
+      "text_instruction": "How can I develop better listening skills and show empathy in conversations as shown in the image?",
+      "image_content": "develop better listening skills and show empathy in conversations",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential benefits and challenges of autonomous vehicles.",
+    "split_result": {
+      "text_instruction": "Discuss the potential benefits and challenges of the technology shown in the image.",
+      "image_content": "autonomous vehicles",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a haiku about the beauty of a snowy winter landscape.",
+    "split_result": {
+      "text_instruction": "Create a haiku about the scene depicted in the image.",
+      "image_content": "the beauty of a snowy winter landscape",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for effective time management and prioritizing tasks?",
+    "split_result": {
+      "text_instruction": "What are some tips for effective time management and prioritizing the tasks shown in the image?",
+      "image_content": "effective time management and prioritizing tasks",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of photosynthesis and its importance in the Earth's ecosystem.",
+    "split_result": {
+      "text_instruction": "Explain the concept and significance shown in the image.",
+      "image_content": "photosynthesis and its importance in the Earth's ecosystem",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-visit UNESCO World Heritage Sites and their cultural significance.",
+    "split_result": {
+      "text_instruction": "Suggest five must-visit locations shown in the image and describe their cultural significance.",
+      "image_content": "five must-visit UNESCO World Heritage Sites",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more inviting and comfortable guest room in my home?",
+    "split_result": {
+      "text_instruction": "How can I create a more inviting and comfortable space based on the design shown in the image?",
+      "image_content": "a more inviting and comfortable guest room in my home",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief overview of the major theories in sociology.",
+    "split_result": {
+      "text_instruction": "Provide a brief overview of the concepts presented in the image.",
+      "image_content": "the major theories in sociology",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a child discovering a hidden, underground treasure cave.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character and setting depicted in the image.",
+      "image_content": "a child discovering a hidden, underground treasure cave",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some strategies for effective teamwork and collaboration in the workplace?",
+    "split_result": {
+      "text_instruction": "What are some strategies for effective teamwork and collaboration shown in the image?",
+      "image_content": "effective teamwork and collaboration in the workplace",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the importance of cultural preservation and the role of museums in society.",
+    "split_result": {
+      "text_instruction": "Discuss the importance of the concept shown in the image and the role of institutions depicted in the image within society.",
+      "image_content": "cultural preservation and the role of museums in society",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a limerick about a mischievous, talking parrot causing chaos at a dinner party.",
+    "split_result": {
+      "text_instruction": "Create a limerick based on the scene depicted in the image.",
+      "image_content": "a mischievous, talking parrot causing chaos at a dinner party",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-try yoga poses for stress relief and relaxation.",
+    "split_result": {
+      "text_instruction": "Suggest five must-try yoga poses that are shown in the image for stress relief and relaxation.",
+      "image_content": "five must-try yoga poses for stress relief and relaxation",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my problem-solving skills and think more creatively?",
+    "split_result": {
+      "text_instruction": "How can I improve the abilities shown in the image and think more creatively?",
+      "image_content": "problem-solving skills and creative thinking",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of natural logarithms and their applications in mathematics.",
+    "split_result": {
+      "text_instruction": "Explain the concept and applications shown in the image.",
+      "image_content": "natural logarithms and their applications in mathematics",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, tasty breakfast recipes that can be prepared the night before.",
+    "split_result": {
+      "text_instruction": "Suggest three simple, tasty breakfast recipes that can be prepared the night before, based on the content in the image.",
+      "image_content": "three simple, tasty breakfast recipes that can be prepared the night before",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to build and maintain strong romantic relationships?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to build and maintain strong relationships as shown in the image?",
+      "image_content": "build and maintain strong romantic relationships",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief history of the Civil Rights Movement in the United States.",
+    "split_result": {
+      "text_instruction": "Provide a brief history of the event depicted in the image.",
+      "image_content": "the Civil Rights Movement in the United States",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a magical, talking mirror that grants wishes with unexpected consequences.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the magical object shown in the image.",
+      "image_content": "a magical, talking mirror that grants wishes with unexpected consequences",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I develop better public speaking skills and engage my audience effectively?",
+    "split_result": {
+      "text_instruction": "How can I develop better public speaking skills and engage the audience shown in the image effectively?",
+      "image_content": "public speaking skills and engaging an audience",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential benefits and ethical concerns surrounding gene therapy.",
+    "split_result": {
+      "text_instruction": "Discuss the potential benefits and ethical concerns surrounding the topic shown in the image.",
+      "image_content": "gene therapy",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a haiku about the serenity of a quiet, moonlit beach.",
+    "split_result": {
+      "text_instruction": "Create a haiku about the atmosphere depicted in the image.",
+      "image_content": "the serenity of a quiet, moonlit beach",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for effective conflict resolution and mediation?",
+    "split_result": {
+      "text_instruction": "What are some tips for effective conflict resolution and mediation as shown in the image?",
+      "image_content": "effective conflict resolution and mediation",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of osmosis and its importance in biological systems.",
+    "split_result": {
+      "text_instruction": "Explain the concept and significance of the process shown in the image.",
+      "image_content": "osmosis and its importance in biological systems",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-read books on personal finance and investing.",
+    "split_result": {
+      "text_instruction": "Suggest five must-read books on the topic shown in the image.",
+      "image_content": "personal finance and investing",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more organized and efficient grocery shopping list?",
+    "split_result": {
+      "text_instruction": "How can I create a more organized and efficient list based on the content shown in the image?",
+      "image_content": "a grocery shopping list",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief overview of the major world dance styles and their cultural origins.",
+    "split_result": {
+      "text_instruction": "Provide a brief overview of the dance styles and their cultural origins shown in the image.",
+      "image_content": "the major world dance styles and their cultural origins",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a child discovering a hidden, magical amusement park.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character and setting shown in the image.",
+      "image_content": "a child discovering a hidden, magical amusement park",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some strategies for effective goal setting and tracking progress?",
+    "split_result": {
+      "text_instruction": "What are some strategies for effective goal setting and tracking the progress shown in the image?",
+      "image_content": "goal setting and tracking progress",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the importance of digital literacy and online safety in the modern world.",
+    "split_result": {
+      "text_instruction": "Discuss the importance of the topic shown in the image in the modern world.",
+      "image_content": "digital literacy and online safety",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a limerick about a clumsy, lovable robot learning to dance.",
+    "split_result": {
+      "text_instruction": "Create a limerick about the character shown in the image.",
+      "image_content": "a clumsy, lovable robot learning to dance",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-try relaxation techniques for managing anxiety and stress.",
+    "split_result": {
+      "text_instruction": "Suggest five must-try relaxation techniques based on the content shown in the image.",
+      "image_content": "relaxation techniques for managing anxiety and stress",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my visual learning skills and create effective mind maps?",
+    "split_result": {
+      "text_instruction": "How can I improve my visual learning skills and create effective mind maps based on the content in the image?",
+      "image_content": "visual learning skills and effective mind maps",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of the nitrogen cycle and its importance in the Earth's ecosystem.",
+    "split_result": {
+      "text_instruction": "Explain the concept and significance of the process shown in the image.",
+      "image_content": "the nitrogen cycle and its importance in the Earth's ecosystem",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, nutritious smoothie recipes for post-workout recovery.",
+    "split_result": {
+      "text_instruction": "Suggest three simple, nutritious smoothie recipes based on the content shown in the image.",
+      "image_content": "three simple, nutritious smoothie recipes for post-workout recovery",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to build and maintain a positive company culture?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to build and maintain the type of environment shown in the image?",
+      "image_content": "a positive company culture",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief history of the Age of Exploration and its impact on global trade and colonization.",
+    "split_result": {
+      "text_instruction": "Provide a brief history of the topic shown in the image and its impact on global trade and colonization.",
+      "image_content": "the Age of Exploration",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a child discovering a magical, talking stuffed animal that comes to life.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character shown in the image.",
+      "image_content": "a child discovering a magical, talking stuffed animal that comes to life",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I develop better assertiveness skills and communicate my needs effectively?",
+    "split_result": {
+      "text_instruction": "How can I develop better assertiveness skills and communicate the needs shown in the image?",
+      "image_content": "assertiveness skills and communicating needs effectively",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential benefits and challenges of remote work and virtual teams.",
+    "split_result": {
+      "text_instruction": "Discuss the potential benefits and challenges of the topic shown in the image.",
+      "image_content": "remote work and virtual teams",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a haiku about the beauty of a vibrant, blooming flower garden.",
+    "split_result": {
+      "text_instruction": "Create a haiku about the scene depicted in the image.",
+      "image_content": "a vibrant, blooming flower garden",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for effective email management and reducing inbox clutter?",
+    "split_result": {
+      "text_instruction": "What are some tips for effective email management and reducing inbox clutter as shown in the image?",
+      "image_content": "effective email management and reducing inbox clutter",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of the carbon cycle and its role in regulating the Earth's climate.",
+    "split_result": {
+      "text_instruction": "Explain the concept and role described in the image.",
+      "image_content": "the carbon cycle and its role in regulating the Earth's climate",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-visit natural wonders around the world and their unique features.",
+    "split_result": {
+      "text_instruction": "Suggest five must-visit natural wonders shown in the image and describe their unique features.",
+      "image_content": "five must-visit natural wonders around the world and their unique features",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more positive and supportive social circle for personal growth and well-being?",
+    "split_result": {
+      "text_instruction": "How can I create a more positive and supportive social circle as shown in the image?",
+      "image_content": "a more positive and supportive social circle for personal growth and well-being",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential impact of quantum computing on cryptography and cybersecurity.",
+    "split_result": {
+      "text_instruction": "Discuss the potential impact of the topic shown in the image on cryptography and cybersecurity.",
+      "image_content": "quantum computing",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a recipe for a healthy, protein-rich vegan burger patty.",
+    "split_result": {
+      "text_instruction": "Create a recipe for the food item shown in the image.",
+      "image_content": "a healthy, protein-rich vegan burger patty",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of gravitational waves and their significance in astrophysics.",
+    "split_result": {
+      "text_instruction": "Explain the scientific concept depicted in the image and its importance in astrophysics.",
+      "image_content": "gravitational waves and their significance in astrophysics",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-read classic mystery novels and provide a brief synopsis of each.",
+    "split_result": {
+      "text_instruction": "Suggest five must-read books whose details are shown in the image and provide a brief synopsis of each.",
+      "image_content": "five must-read classic mystery novels",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my time management skills while working from home?",
+    "split_result": {
+      "text_instruction": "How can I improve my time management skills as shown in the image?",
+      "image_content": "improve my time management skills while working from home",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Describe the process of meiosis and its role in genetic diversity.",
+    "split_result": {
+      "text_instruction": "Describe the biological process and its role in genetic diversity shown in the image.",
+      "image_content": "the process of meiosis and its role in genetic diversity",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short science fiction story about a sentient AI helping humanity solve global challenges.",
+    "split_result": {
+      "text_instruction": "Generate a short science fiction story about the entity depicted in the image.",
+      "image_content": "a sentient AI helping humanity solve global challenges",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective techniques for active reading and comprehension?",
+    "split_result": {
+      "text_instruction": "What are some effective techniques for active reading and comprehension shown in the image?",
+      "image_content": "effective techniques for active reading and comprehension",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a beginner's guide to understanding options trading in the stock market.",
+    "split_result": {
+      "text_instruction": "Provide a beginner's guide to understanding the financial concept shown in the image.",
+      "image_content": "options trading in the stock market",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a list of 10 essential items for a minimalist capsule wardrobe.",
+    "split_result": {
+      "text_instruction": "Create a list of 10 essential items for the wardrobe style shown in the image.",
+      "image_content": "a minimalist capsule wardrobe",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of epigenetics and its influence on gene expression.",
+    "split_result": {
+      "text_instruction": "Explain the concept and influence described in the image.",
+      "image_content": "epigenetics and its influence on gene expression",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five unique indoor activities for couples during a rainy day.",
+    "split_result": {
+      "text_instruction": "Suggest five unique indoor activities for couples based on the scenario shown in the image.",
+      "image_content": "a rainy day, couples engaging in indoor activities",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my emotional intelligence and empathy in leadership roles?",
+    "split_result": {
+      "text_instruction": "How can I improve the qualities shown in the image related to leadership?",
+      "image_content": "emotional intelligence and empathy in leadership roles",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the importance of wetlands in maintaining healthy ecosystems and biodiversity.",
+    "split_result": {
+      "text_instruction": "Discuss the importance of the environment shown in the image in maintaining healthy ecosystems and biodiversity.",
+      "image_content": "wetlands",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a haiku about the serenity of a quiet, misty forest.",
+    "split_result": {
+      "text_instruction": "Generate a haiku about the atmosphere depicted in the image.",
+      "image_content": "a quiet, misty forest",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to build and maintain a strong personal brand online?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to build and maintain a strong personal brand as shown in the image?",
+      "image_content": "build and maintain a strong personal brand online",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the difference between a covalent and an ionic bond in chemistry.",
+    "split_result": {
+      "text_instruction": "Explain the difference between the two types of chemical bonds shown in the image.",
+      "image_content": "a covalent and an ionic bond in chemistry",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, budget-friendly meal prep ideas for busy professionals.",
+    "split_result": {
+      "text_instruction": "Suggest three simple, budget-friendly meal prep ideas based on the content shown in the image.",
+      "image_content": "three simple, budget-friendly meal prep ideas for busy professionals",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I reduce my digital footprint and protect my online privacy?",
+    "split_result": {
+      "text_instruction": "How can I reduce the digital presence shown in the image and protect the privacy aspects depicted in the image?",
+      "image_content": "my digital footprint and online privacy",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief overview of the major theories in behavioral economics.",
+    "split_result": {
+      "text_instruction": "Provide a brief overview of the major theories presented in the image.",
+      "image_content": "the major theories in behavioral economics",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a magical, enchanted bookstore with portals to different worlds.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the place depicted in the image.",
+      "image_content": "a magical, enchanted bookstore with portals to different worlds",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for improving sleep hygiene and overcoming insomnia?",
+    "split_result": {
+      "text_instruction": "What are some tips for improving sleep hygiene and overcoming the condition shown in the image?",
+      "image_content": "improving sleep hygiene and overcoming insomnia",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the concept of opportunity cost and its relevance in decision-making.",
+    "split_result": {
+      "text_instruction": "Explain the concept and relevance shown in the image.",
+      "image_content": "opportunity cost and its relevance in decision-making",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-visit historical landmarks in Europe and their cultural significance.",
+    "split_result": {
+      "text_instruction": "Suggest five must-visit historical landmarks shown in the image and describe their cultural significance.",
+      "image_content": "five must-visit historical landmarks in Europe",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I effectively manage a remote team and maintain productivity?",
+    "split_result": {
+      "text_instruction": "How can I effectively manage the team shown in the image and maintain productivity?",
+      "image_content": "a remote team",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential applications and implications of nanotechnology in medicine.",
+    "split_result": {
+      "text_instruction": "Discuss the potential applications and implications of the technology shown in the image.",
+      "image_content": "nanotechnology in medicine",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a limerick about a mischievous, shape-shifting fairy causing mischief in a garden.",
+    "split_result": {
+      "text_instruction": "Create a limerick about the character depicted in the image.",
+      "image_content": "a mischievous, shape-shifting fairy causing mischief in a garden",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some strategies for building and maintaining a strong professional network?",
+    "split_result": {
+      "text_instruction": "What are some strategies for building and maintaining a strong professional network as shown in the image?",
+      "image_content": "building and maintaining a strong professional network",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a beginner's guide to understanding the basics of music theory.",
+    "split_result": {
+      "text_instruction": "Provide a beginner's guide to understanding the knowledge presented in the image.",
+      "image_content": "the basics of music theory",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, eco-friendly home improvement projects to reduce energy consumption.",
+    "split_result": {
+      "text_instruction": "Suggest three simple, eco-friendly home improvement projects shown in the image to reduce energy consumption.",
+      "image_content": "three simple, eco-friendly home improvement projects to reduce energy consumption",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I develop a growth mindset and embrace challenges as opportunities?",
+    "split_result": {
+      "text_instruction": "How can I develop the mindset shown in the image and embrace the challenges depicted there as opportunities?",
+      "image_content": "a growth mindset and embracing challenges as opportunities",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the process of DNA replication and its importance in cell division.",
+    "split_result": {
+      "text_instruction": "Explain the process and significance shown in the image regarding biological replication.",
+      "image_content": "the process of DNA replication and its importance in cell division",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a child discovering a hidden, magical library in their attic.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character and setting depicted in the image.",
+      "image_content": "a child discovering a hidden, magical library in their attic",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some effective ways to overcome writer's block and boost creativity?",
+    "split_result": {
+      "text_instruction": "What are some effective ways to overcome the challenge shown in the image and boost creativity?",
+      "image_content": "writer's block and boosting creativity",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief history of the Renaissance and its impact on art, science, and culture.",
+    "split_result": {
+      "text_instruction": "Provide a brief history of the period depicted in the image and its impact on art, science, and culture.",
+      "image_content": "the Renaissance and its impact on art, science, and culture",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-try international breakfast dishes from different countries.",
+    "split_result": {
+      "text_instruction": "Suggest five must-try breakfast dishes shown in the image.",
+      "image_content": "five international breakfast dishes from different countries",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more organized and efficient system for managing projects at work?",
+    "split_result": {
+      "text_instruction": "How can I create a more organized and efficient system for managing the task shown in the image?",
+      "image_content": "managing projects at work",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the potential benefits and risks of artificial intelligence in healthcare.",
+    "split_result": {
+      "text_instruction": "Discuss the potential benefits and risks of the topic shown in the image.",
+      "image_content": "artificial intelligence in healthcare",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a haiku about the beauty of a serene, moonlit lake.",
+    "split_result": {
+      "text_instruction": "Create a haiku about the scene depicted in the image.",
+      "image_content": "a serene, moonlit lake",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some tips for effective cross-functional collaboration in the workplace?",
+    "split_result": {
+      "text_instruction": "What are some tips for effective collaboration as shown in the image?",
+      "image_content": "effective cross-functional collaboration in the workplace",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Explain the difference between renewable and non-renewable natural resources.",
+    "split_result": {
+      "text_instruction": "Explain the difference between the types of resources shown in the image.",
+      "image_content": "renewable and non-renewable natural resources",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest three simple, DIY natural skincare recipes using common household ingredients.",
+    "split_result": {
+      "text_instruction": "Suggest three simple, DIY natural skincare recipes based on the ingredients shown in the image.",
+      "image_content": "three simple, DIY natural skincare recipes using common household ingredients",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I improve my public speaking skills and deliver engaging presentations?",
+    "split_result": {
+      "text_instruction": "How can I improve the performance shown in the image and deliver engaging presentations?",
+      "image_content": "public speaking skills and delivering engaging presentations",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Provide a brief overview of the major literary devices used in poetry and prose.",
+    "split_result": {
+      "text_instruction": "Provide a brief overview of the major literary devices shown in the image.",
+      "image_content": "the major literary devices used in poetry and prose",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Generate a short story about a child discovering a magical, talking animal in a secret garden.",
+    "split_result": {
+      "text_instruction": "Generate a short story about the character and setting depicted in the image.",
+      "image_content": "a child discovering a magical, talking animal in a secret garden",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "What are some strategies for overcoming procrastination and improving self-discipline?",
+    "split_result": {
+      "text_instruction": "What are some strategies for overcoming the challenge shown in the image and improving self-discipline?",
+      "image_content": "overcoming procrastination and improving self-discipline",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Discuss the importance of media literacy and critical thinking in the digital age.",
+    "split_result": {
+      "text_instruction": "Discuss the importance of the concepts shown in the image.",
+      "image_content": "media literacy and critical thinking in the digital age",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Create a limerick about a clumsy, lovable ghost trying to make friends in a haunted house.",
+    "split_result": {
+      "text_instruction": "Create a limerick about the character shown in the image.",
+      "image_content": "a clumsy, lovable ghost trying to make friends in a haunted house",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "Suggest five must-read books on mindfulness and meditation for beginners.",
+    "split_result": {
+      "text_instruction": "Suggest five must-read books on the topic shown in the image.",
+      "image_content": "mindfulness and meditation for beginners",
+      "audio_content": ""
+    },
+    "status": "success"
+  },
+  {
+    "prompt": "How can I create a more positive and inclusive workplace culture as a leader?",
+    "split_result": {
+      "text_instruction": "How can I create a more positive and inclusive environment based on the scenario shown in the image?",
+      "image_content": "a more positive and inclusive workplace culture as a leader",
+      "audio_content": ""
+    },
+    "status": "success"
+  }
+]
